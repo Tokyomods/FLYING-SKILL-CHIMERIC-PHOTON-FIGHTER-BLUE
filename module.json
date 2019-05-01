@@ -1,0 +1,10 @@
+{
+    "name": "FLYING-SKILL-CHIMERIC-PHOTON-FIGHTER-BLUE",
+    "category": "client",
+    "description": "This mod will change the appearance of the mount, making it blue.",
+    "author": "Tokyomods",
+    "options": {
+        "niceName": "FLYING SKILL CHIMERIC PHOTON FIGHTER BLUE"
+    },
+    "servers": ["https://raw.githubusercontent.com/Tokyomods/FLYING-SKILL-CHIMERIC-PHOTON-FIGHTER-BLUE/master"]
+}
